@@ -3,6 +3,8 @@
 
 ### Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rdygo)](https://solved.ac/rdygo)
+
 
 
 <!--
