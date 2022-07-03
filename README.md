@@ -1,4 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=#FAF5F1&height=300&section=header&text=FNEJD&fontSize=90)
+
 ### Hi there 👋
+
+
 
 <!--
 **fnejd/fnejd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
