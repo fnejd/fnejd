@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FAF5F1&height=300&section=header&text=%20FNEJD%20&fontSize=90&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=FCF9F6)
 
 ### Hi there 👋
 
