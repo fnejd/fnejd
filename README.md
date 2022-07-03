@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=#FAF5F1&height=300&section=header&text=FNEJD&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FAF5F1&height=300&section=header&text=%20FNEJD%20&fontSize=90&fontColor=ffffff)
 
 ### Hi there 👋
 
