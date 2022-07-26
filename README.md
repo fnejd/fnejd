@@ -3,7 +3,10 @@
 
 ### Hi there 👋
 
-![fnejd's GitHub stats](https://github-readme-stats.vercel.app/api?username=fnejd&theme=default&show_icons=true)
+![fnejd's GitHub stats](https://github-readme-stats.vercel.app/api?username=fnejd&theme=graywhite&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnejd&langs_count=5&layout=compact)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rdygo)](https://solved.ac/rdygo)
 
 
