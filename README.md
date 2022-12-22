@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-![fnejd's GitHub stats](https://github-readme-stats.vercel.app/api?username=fnejd&count_private=true&theme=graywhite&show_icons=true)
+
 
 
 
