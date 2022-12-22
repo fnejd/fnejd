@@ -6,7 +6,7 @@
 ![fnejd's GitHub stats](https://github-readme-stats.vercel.app/api?username=fnejd&count_private=true&theme=graywhite&show_icons=true)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rdygo)](https://solved.ac/rdygo)
+
 
 
 
